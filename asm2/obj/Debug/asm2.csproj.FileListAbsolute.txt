@@ -1,0 +1,8 @@
+C:\Users\VanDal\source\repos\asm2\asm2\bin\Debug\asm2.exe.config
+C:\Users\VanDal\source\repos\asm2\asm2\bin\Debug\asm2.exe
+C:\Users\VanDal\source\repos\asm2\asm2\bin\Debug\asm2.pdb
+C:\Users\VanDal\source\repos\asm2\asm2\obj\Debug\asm2.csproj.AssemblyReference.cache
+C:\Users\VanDal\source\repos\asm2\asm2\obj\Debug\asm2.csproj.SuggestedBindingRedirects.cache
+C:\Users\VanDal\source\repos\asm2\asm2\obj\Debug\asm2.csproj.CoreCompileInputs.cache
+C:\Users\VanDal\source\repos\asm2\asm2\obj\Debug\asm2.exe
+C:\Users\VanDal\source\repos\asm2\asm2\obj\Debug\asm2.pdb
